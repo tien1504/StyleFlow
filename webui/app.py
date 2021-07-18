@@ -10,6 +10,7 @@ st.set_page_config(
 )
 import sys
 sys.path.insert(0, "../")
+sys.path.insert(0, '/content/pipsLib/')
 
 from options.test_options import TestOptions
 
