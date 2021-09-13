@@ -1,5 +1,6 @@
 # Author shariqfarooq123
-
+import tensorflow as tf
+print(tf.__version__)
 import streamlit as st
 
 st.set_page_config(
